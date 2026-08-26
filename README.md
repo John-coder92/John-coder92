@@ -15,7 +15,7 @@
 
 # 👋 Hey, I'm John
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="360" src="https://i.pinimg.com/1200x/74/e2/48/74e2480da58eccbd98030e9731c9c71e.jpg">
 
 ### 💻 Frontend Developer | ⚡ Vibe Coder | 🎨 Graphic Designer
 
