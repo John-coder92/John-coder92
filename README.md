@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+Developer;Vibe+Coder;Graphic+Designer;Creative+Problem+Solver;Building+Ideas+Into+Digital+Experiences;Sales+Person;Mentor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Welcome+To+My+Profile;I'm+John;Frontend+Developer;Vibe+Coder;Graphic+Designer;Creative+Problem+Solver;Building+Ideas+Into+Digital+Experiences;Sales+Person;Mentor" />
 </p>
 
 <p align="center">
@@ -206,11 +206,8 @@ A calculator project created to practice JavaScript logic and UI development.
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/John-coder92">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-</p>
+
 
 ---
 
