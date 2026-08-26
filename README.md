@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1d4ed8,100:38bdf8&height=220&section=header&text=JOHN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="./header_.png" width="100%" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+Developer;Vibe+Coder;Graphic+Designer;Creative+Problem+Solver;Building+Ideas+Into+Digital+Experiences" />
