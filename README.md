@@ -131,12 +131,12 @@ A calculator project created to practice JavaScript logic and UI development.
 <h2 align="center">📊 // GITHUB ANALYTICS //</h2>
 
 <p align="center">
-  <img
+  <im
     src="https://github-readme-stats.vercel.app/api?username=John-coder92&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=050B18&title_color=00E5FF&icon_color=00E5FF&text_color=B8EFFF"
     width="48%"
   />
 
-  <img
+  <im
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-coder92&layout=compact&hide_border=true&bg_color=050B18&title_color=00E5FF&text_color=B8EFFF"
     width="41%"
   />
@@ -168,11 +168,48 @@ A calculator project created to practice JavaScript logic and UI development.
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=John-coder92&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%"/>
+  <im
+    src="https://github-readme-stats.vercel.app/api?username=John-coder92&show_icons=true&hide_border=true&hide_title=true&bg_color=050B18&text_color=00E5FF&icon_color=00E5FF&include_all_commits=true"
+    width="75%"
+  />
 </p>
 
----
+<br>
 
+<table align="center">
+<tr>
+
+<td align="center">
+
+<b>⚡ COMMITS</b><br>
+<img src="https://img.shields.io/github/commit-activity/y/John-coder92?style=for-the-badge&labelColor=050B18&color=00E5FF">
+
+</td>
+
+<td align="center">
+
+<b>⭐ STARS</b><br>
+<img src="https://img.shields.io/github/stars/John-coder92?style=for-the-badge&labelColor=050B18&color=00E5FF">
+
+</td>
+
+<td align="center">
+
+<b>📦 REPOSITORIES</b><br>
+<img src="https://img.shields.io/badge/PROJECTS-ACTIVE-00E5FF?style=for-the-badge&labelColor=050B18">
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <b>⚡ SYSTEM STATUS: ACHIEVEMENTS TRACKING ⚡</b>
+</p>
+
+<!-- ========================================================= -->
 # 📈 Contribution Graph
 
 <h2 align="center">⚡ GITHUB ACTIVITY</h2>
@@ -188,11 +225,51 @@ A calculator project created to practice JavaScript logic and UI development.
 
 # 🎯 Currently
 
+<!-- ===================== CURRENTLY ===================== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=💻+Building+Modern+Web+Experiences;🤖+Exploring+AI+%2B+Vibe+Coding;🎨+Improving+UI%2FUX+%26+Graphic+Design;🚀+Creating+New+Frontend+Projects;📚+Learning+Something+New+Every+Day" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=BUILDING+%7C+LEARNING+%7C+CREATING"
+    alt="Currently"
+  />
 </p>
 
----
+<table align="center">
+<tr>
+<td align="center" width="250">
+
+### 💻 Building
+
+Modern & interactive websites  
+Creative frontend experiences
+
+</td>
+
+<td align="center" width="250">
+
+### 🧠 Learning
+
+Advanced JavaScript  
+GSAP • Three.js • WebGL
+
+</td>
+
+<td align="center" width="250">
+
+### 🚀 Exploring
+
+AI-powered development  
+New web technologies
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <sub>⚡ ALWAYS LEARNING • ALWAYS BUILDING ⚡</sub>
+</p>
+
+<!-- ====================================================== -->
 
 # 🌐 Let's Connect
 
@@ -215,7 +292,7 @@ A calculator project created to practice JavaScript logic and UI development.
 
 <p align="center">
 
-### <i>"Build. Break. Learn. Improve. Repeat."</i>
+### <i>"I believe development is more than just writing code — it’s about turning ideas into meaningful digital experiences. I focus on learning continuously, thinking creatively, solving problems efficiently, and building things that are both functional and visually impactful. Every project is an opportunity to experiment, improve, and push my skills further."</i>
 
 <br><br>
 
