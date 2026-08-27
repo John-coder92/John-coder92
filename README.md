@@ -15,7 +15,7 @@
 
 # 👾 Hey, I'm John
 
-<img align="right" width="360" src="https://i.pinimg.com/1200x/74/e2/48/74e2480da58eccbd98030e9731c9c71e.jpg">
+<img align="right" width="360" src="1024程序员节-hello.jpg">
 
 ### 💻 Frontend Developer | ⚡ Vibe Coder | 🎨 Graphic Designer | 💡 Mentor | 🚀 Sales Person
 
